@@ -205,7 +205,7 @@ const Layout = ({ children, customSEO }) => {
         {children}
         <Footer>
           &copy; 2019 by Rahul Vyas. All rights reserved. <br />
-          <a href="https://github.com/rahulvyas1">GitHub Repository</a> <br />
+      
           <span>Last Updated: {buildTime}</span>
         </Footer>
       </>
